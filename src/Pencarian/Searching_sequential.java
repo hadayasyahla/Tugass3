@@ -16,7 +16,7 @@ public class Searching_sequential {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String data[] = {"Galileo", "Archimedes", "Alkhawarizmi", "Aljabar", "Anggit", "Tesla"};
+        String data[] = {"Galileo", "Archimedes", "Alkhawarizmi", "Aljabar", "Lita", "Tesla"};
         String key;
         
         Scanner input = new Scanner(System.in);
